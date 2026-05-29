@@ -55,7 +55,7 @@ Para viabilizar a interoperabilidade, a execução distribuída e a transparênc
 
 ### 🤖 Declaração de Uso de Inteligência Artificial Generativa
 Em estrita conformidade com as diretrizes de transparência e uso adequado de ferramentas tecnológicas do evento:
-* **Gemini (Google):** Modelo de inteligência artificial generativa de linguagem utilizado ativamente durante o certame como assistente de codificação para o refinamento da arquitetura da API REST, suporte na lógica de mitigação de duplicidade de dados no Smart Contract em Solidity e revisão de segurança contra vetores de ataque em sistemas distribuídos.
+* **Gemini (Google):** Modelo de inteligência artificial generativa de linguagem utilizado durante o certame como assistente de codificação para o refinamento da arquitetura da API REST, suporte na lógica de mitigação de duplicidade de dados no Smart Contract em Solidity e revisão de segurança contra vetores de ataque em sistemas distribuídos.
 
 ```text
   [Texto Integral Off-Chain] ──> (Algoritmo SHA-256) ──> [Hash bytes32]
