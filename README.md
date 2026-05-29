@@ -51,14 +51,14 @@ Apenas as seguintes propriedades de controle técnico e criptográfico são grav
 Para viabilizar a interoperabilidade, a execução distribuída e a transparência do ecossistema, o ProofChain integra as seguintes tecnologias:
 
 ### 💻 Ambientes de Desenvolvimento e Editores
-* **Visual Studio Code (VS Code):** Editor de código integrado utilizado para o desenvolvimento do ecossistema local, estruturação das rotas da API em Python (Flask) e scripts de interface.
-* **Remix IDE:** Ambiente de desenvolvimento integrado web utilizado para a escrita, compilação, testes unitários primários e deploy dos contratos inteligentes em Solidity.
+* Visual Studio Code (VS Code): Editor de código integrado utilizado para o desenvolvimento do ecossistema local, estruturação das rotas da API em Python (Flask) e scripts de interface.
+* Remix IDE: Ambiente de desenvolvimento integrado web utilizado para a escrita, compilação, testes unitários primários e deploy dos contratos inteligentes em Solidity.
 
 ### 🌐 Infraestrutura Blockchain e Web3
-* **Sepolia Testnet:** Rede de testes pública baseada em Proof-of-Stake (PoS) da Ethereum, utilizada como infraestrutura descentralizada para a simulação real, mineração de blocos e validação imutável das etapas dos concursos.
-* **MetaMask:** Carteira digital baseada em extensão de navegador utilizada como interface de custódia de chaves privadas e assinatura criptográfica das transações enviadas via Frontend.
-* **Etherscan (Sepolia):** Explorador de blocks oficial utilizado para auditoria pública, rastreamento de hashes de transação (`transactionHash`), verificação de contratos e monitoramento dos logs de eventos emitidos pela EVM.
+* Sepolia Testnet: Rede de testes pública baseada em Proof-of-Stake (PoS) da Ethereum, utilizada como infraestrutura descentralizada para a simulação real, mineração de blocos e validação imutável das etapas dos concursos.
+* MetaMask: Carteira digital baseada em extensão de navegador utilizada como interface de custódia de chaves privadas e assinatura criptográfica das transações enviadas via Frontend.
+* Etherscan (Sepolia): Explorador de blocks oficial utilizado para auditoria pública, rastreamento de hashes de transação (`transactionHash`), verificação de contratos e monitoramento dos logs de eventos emitidos pela EVM.
 
 ### 🤖 Declaração de Uso de Inteligência Artificial Generativa
 Em estrita conformidade com as diretrizes de transparência e uso adequado de ferramentas tecnológicas do evento:
-* **Gemini (Google):** Modelo de inteligência artificial generativa de linguagem utilizado ativamente durante o certame como assistente de codificação para o refinamento da arquitetura da API REST, suporte na lógica de mitigação de duplicidade de dados no Smart Contract em Solidity e revisão de segurança contra vetores de ataque em sistemas distribuídos.
+* Gemini (Google): Modelo de inteligência artificial generativa de linguagem utilizado ativamente durante o certame como assistente de codificação para o refinamento da arquitetura da API REST, suporte na lógica de mitigação de duplicidade de dados no Smart Contract em Solidity e revisão de segurança contra vetores de ataque em sistemas distribuídos.
